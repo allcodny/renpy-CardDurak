@@ -1,6 +1,6 @@
 # Карточный дурак для Ren'Py
-[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/N0Fanru/renpy-CardDurak/blob/master/README.md)
-[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/N0Fanru/renpy-CardDurak/blob/master/README-ru.md)
+[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/allcodny/renpy-CardDurak/blob/master/README.md)
+[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/allcodny/renpy-CardDurak/blob/master/README-ru.md)
 
 ![gif](https://github.com/user-attachments/assets/3083327d-daad-471b-b523-67eae0c5d913)
 
